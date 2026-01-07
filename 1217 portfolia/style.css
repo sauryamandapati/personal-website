@@ -1,0 +1,21 @@
+img {
+    width: 40vw;
+   left: 30vw;
+   position: absolute;
+   border-radius: 20%;
+ 
+}
+ body{
+    background-color: rgb(166, 232, 235);
+ }
+
+ h1, p{
+    text-align:center;
+    position: relative;
+ }
+
+ h1{
+    font-size: 9vh;
+ }
+
+ 
